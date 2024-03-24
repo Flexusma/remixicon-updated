@@ -9,3 +9,6 @@ DO NOT USE THIS VERISON! IT CONTAINS A FATAL ERROR AND IS UNUSABLE
 
 ## 1.0.2
 - Fixed fatal error in font definition, imported fonts from old packagename
+- 
+## 1.0.3
+_Upgraded to v4.2.0
